@@ -55,6 +55,13 @@ None Type:	NoneType
 ```
 * Lambda function is a small anonymous function.
 * PIP is a package manager for Python packages, or modules if you like.
+```
+# Check if PIP installed
+pip --version
+
+# check list of all packages available
+pip list
+```
 
 
 # References
