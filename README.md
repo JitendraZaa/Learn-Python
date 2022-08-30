@@ -1,7 +1,7 @@
 # Learn-Python
 Repository to learn Python Basics for Data Science 
 
-## Installation
+## Installation for Python 2
 1. Install Anaconda using Homebrew
 
 `brew install --cask anaconda`
@@ -24,12 +24,21 @@ then `Open Terminal > and type: open ~/.zshrc`
 
 `jupyter notebook`
 
+## Installation for Python 3
+* [Click here to download anaconda from official website & install](https://www.anaconda.com/products/distribution)
+* To use Jupyter Notebook, launch anaconda Navigator from App
 ## Useful Commands
 Get Installed Python version
 
-`python --version`
+`python --version` 
+
+OR
+
+`python3 --version`
+
 
 ## Notes
+* General purpose programming language introduced in 1989
 * Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 * Instead of curly bracket to define body, python uses indentation ( I Love This!!! , I keep saying my developers in Apex to use proper indentation , glad there is programing language that FORCES you)
 * Just like Javascript , Python does not need variable to be declared
@@ -63,6 +72,18 @@ pip --version
 pip list
 ```
 
+# Most used libraries in Python
+* NumPy - Used for large multi dimensional array & matrices
+* Pandas - Data Manipulations
+* Tensorflow - Deep Learning
+* Jupyter Notebook - like IDE
+
+# R Language
+* Introduced in 1992
+* Thousands of package available in CRAN
+* RStudio - IDE
+* Used for statistical analytics
+* Supports good & sophisticated graphics
 
 # References
 * [Jupyter Documentation](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
